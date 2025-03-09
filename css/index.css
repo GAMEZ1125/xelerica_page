@@ -9,7 +9,7 @@
   height: auto;
   background-position: 50% 50%;
   background-repeat: no-repeat, no-repeat;
-  background-image: linear-gradient(to bottom, rgba(26, 26, 26, 0.6588235294117647), rgba(26, 26, 26, 0.6588235294117647)), url('assets/images/a059a63189d91f23da37c4a428f2750be96a05c2a17301e2869e32027d043de077f614f1cb4621cca24c6ea4f8ff43531c68f3b17fdc340929690a_1280.jpg');
+  background-image: linear-gradient(to bottom, rgba(26, 26, 26, 0.6588235294117647), rgba(26, 26, 26, 0.6588235294117647)), url('../assets/images/a059a63189d91f23da37c4a428f2750be96a05c2a17301e2869e32027d043de077f614f1cb4621cca24c6ea4f8ff43531c68f3b17fdc340929690a_1280.jpg');
   background-size: cover, cover;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: -200px;
@@ -114,7 +114,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('assets/images/acelerar.webp');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('../assets/images/acelerar.webp');
   --radius: 30px;
   background-position: 50% 50%, 50% 50%;
   background-size: cover, cover;
@@ -141,7 +141,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('assets/images/Escalar.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('../assets/images/Escalar.jpg');
   --radius: 30px;
   background-position: 50% 50%, 20.63% 50%;
   background-size: cover, cover;
@@ -168,7 +168,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('d2cc3eaa/6427118/images/modern-skyscrapers-japan-busines.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('../assets/images/a059a63189d91f23da37c4a428f2750be96a05c2a17301e2869e32027d043de077f614f1cb4621cca24c6ea4f8ff43531c68f3b17fdc340929690a_1280.jpg');
   --radius: 30px;
   background-position: 50% 50%, 50% 50%;
   background-size: cover;
@@ -195,7 +195,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('assets/images/optimizar.webp');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('../assets/images/optimizar.webp');
   background-position: 50% 50%, 50% 50%;
   --radius: 30px;
   background-size: cover;
@@ -222,7 +222,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('d2cc3eaa/6427118/images/man-working-roof-with-drill_23-2.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('../assets/images/a059a63189d91f23da37c4a428f2750be96a05c2a17301e2869e32027d043de077f614f1cb4621cca24c6ea4f8ff43531c68f3b17fdc340929690a_1280.jpg');
   background-position: 50% 50%, 50% 50%;
   --radius: 30px;
   background-size: cover;
@@ -249,7 +249,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('d2cc3eaa/6427118/images/vertical-low-angle-shot-grey-con.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('../assets/images/a059a63189d91f23da37c4a428f2750be96a05c2a17301e2869e32027d043de077f614f1cb4621cca24c6ea4f8ff43531c68f3b17fdc340929690a_1280.jpg');
   background-position: 50% 50%, 50% 50%;
   --radius: 30px;
   background-size: cover;
@@ -276,7 +276,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('d2cc3eaa/6427118/images/low-angle-building-design-with-w.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('../assets/images/low-angle-building-design-with-w.jpg');
   background-position: 50% 50%, 50% 50%;
   --radius: 30px;
   background-size: cover;
@@ -303,7 +303,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('d2cc3eaa/6427118/images/worker-building-roof-house_23-21.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8392156862745098), rgba(0, 0, 0, 0.8392156862745098)), url('../assets/images/worker-building-roof-house_23-21.jpg');
   background-position: 50% 50%, 50% 50%;
   --radius: 30px;
   background-size: cover;
@@ -891,7 +891,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  background-image: url("assets/images/choucair_foto.webp");
+  background-image: url("../assets/images/choucair_foto.webp");
   background-position: 86.9% 50%;
   background-size: cover;
 }
@@ -1116,7 +1116,7 @@
   --animation-custom_in-scale: 0.3;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-image: url("assets/images/hdi_foto.webp");
+  background-image: url("../assets/images/hdi_foto.webp");
   background-size: cover;
 }
 
@@ -1310,7 +1310,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  background-image: url("assets/images/foto3.webp");
+  background-image: url("../assets/images/foto3.webp");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1776,4 +1776,31 @@
 
 .u-section-7 .u-image-1.u-image-1.u-image-1.hover {
   transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.scroll-top-button {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  width: 50px;
+  height: 50px;
+  background-color: #25d366;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  z-index: 1000;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.scroll-top-button:hover {
+  background-color: #128C7E;
+  transform: scale(1.1);
+}
+
+.scroll-top-button i {
+  color: white;
+  font-size: 24px;
 }
